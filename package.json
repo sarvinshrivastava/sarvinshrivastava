@@ -1,0 +1,12 @@
+{
+  "name": "sarvinshrivastava-readme-generator",
+  "version": "1.0.0",
+  "description": "Auto-generates GitHub profile README from Notion CMS",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate_readme.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15"
+  }
+}
