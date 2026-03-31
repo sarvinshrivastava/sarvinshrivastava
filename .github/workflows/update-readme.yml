@@ -1,0 +1,40 @@
+name: Update README from Notion
+
+on:
+  schedule:
+    # Runs daily at 00:30 IST (19:00 UTC)
+    - cron: "0 19 * * *"
+  workflow_dispatch: # allow manual trigger from GitHub UI
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate README
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_PROJECTS_DB: ${{ secrets.NOTION_PROJECTS_DB }}
+          NOTION_JOURNEY_DB: ${{ secrets.NOTION_JOURNEY_DB }}
+        run: node generate_readme.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update README from Notion [skip ci]"
+          git push
