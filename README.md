@@ -153,7 +153,7 @@ Joined Habuild as a frontend intern, building interactive game experiences for 1
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sarvinshrivastava&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/sarvinshrivastava) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvinshrivastava&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/sarvinshrivastava)
+[![Stats](https://github-readme-stats-pink-nine-68.vercel.app/api?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/sarvinshrivastava) [![Top Languages](https://github-readme-stats-pink-nine-68.vercel.app/api/top-langs/?username=sarvinshrivastava&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/sarvinshrivastava)
 
 ---
 
