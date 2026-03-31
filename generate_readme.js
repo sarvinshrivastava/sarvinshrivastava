@@ -1,11 +1,6 @@
 /**
  * generate_readme.js
  * Fetches Projects + My Journey from Notion and writes a fresh README.md
- *
- * Required env vars:
- *   NOTION_TOKEN          — your Notion internal integration secret
- *   NOTION_PROJECTS_DB    — b8891f8b3db247ebb95c59c96431edf9
- *   NOTION_JOURNEY_DB     — 99ba1a41a3db414cb05fbd8aa352b045
  */
 
 import { Client } from "@notionhq/client";
@@ -230,9 +225,9 @@ ${renderJourney(journey)}
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-lime-omega.vercel.app?user=sarvinshrivastava&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/sarvinshrivastava)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/sarvinshrivastava)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarvinshrivastava&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=sarvinshrivastava&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/sarvinshrivastava) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvinshrivastava&theme=vue-dark&hide_border=true&layout=compact)](https://github.com/sarvinshrivastava)
 
 ---
 
