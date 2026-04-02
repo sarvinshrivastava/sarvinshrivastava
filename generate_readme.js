@@ -184,7 +184,7 @@ function buildReadme(projects, journey) {
 
   return `# ✌️ Hey, I'm Sarvin
 
-🎓 Pre-final year B.Tech CSE @ **KIET Group of Institutions**  
+🎓 Final year B.Tech CSE @ **KIET Group of Institutions**  
 🏗️ Frontend Intern @ **Habuild Healthtech** · AR/VR Lead @ **Technocrats**  
 🌐 Portfolio → [sarvinshrivastava.space](https://sarvinshrivastava.space)
 
