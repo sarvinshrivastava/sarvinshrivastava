@@ -1,6 +1,6 @@
 # ✌️ Hey, I'm Sarvin
 
-🎓 Pre-final year B.Tech CSE @ **KIET Group of Institutions**  
+🎓 Final year B.Tech CSE @ **KIET Group of Institutions**  
 🏗️ Frontend Intern @ **Habuild Healthtech** · AR/VR Lead @ **Technocrats**  
 🌐 Portfolio → [sarvinshrivastava.space](https://sarvinshrivastava.space)
 
@@ -157,4 +157,4 @@ Joined Habuild as a frontend intern, building interactive game experiences for 1
 
 ---
 
-<sub>🤖 Auto-generated from [Notion CMS](https://notion.so) · Last updated: 2 April 2026</sub>
+<sub>🤖 Auto-generated from [Notion CMS](https://notion.so) · Last updated: 3 April 2026</sub>
