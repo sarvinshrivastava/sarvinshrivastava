@@ -69,7 +69,7 @@
 
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&labelColor=1a1a1a&color=61DAFB) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square&labelColor=1a1a1a&color=339933) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&labelColor=1a1a1a&color=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&labelColor=1a1a1a&color=4169E1)
 
-*repo coming soon*
+[**↗ GitHub**](https://github.com/sarvinshrivastava/Chalk.git)
 
 ### 📁 Other Projects
 
