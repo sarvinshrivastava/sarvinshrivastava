@@ -90,7 +90,7 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&labelColor=1a1a1a&color=7F52FF) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&labelColor=1a1a1a&color=4285F4)
 
-*repo coming soon*
+[**↗ GitHub**](https://github.com/sarvinshrivastava/minimal-compass)
 
 ---
 
@@ -157,4 +157,4 @@ Joined Habuild as a frontend intern, building interactive game experiences for 1
 
 ---
 
-<sub>🤖 Auto-generated from [Notion CMS](https://notion.so) · Last updated: 3 April 2026</sub>
+<sub>🤖 Auto-generated from [Notion CMS](https://notion.so) · Last updated: 4 April 2026</sub>
