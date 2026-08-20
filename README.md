@@ -111,38 +111,41 @@
 <details>
 <summary>View timeline</summary>
 
-**🎓 Delhi Public School Ghaziabad** · `2010 – 2020`  
-Completed secondary education. Built early foundations in science and technology.
+**📍 Habuild — Full-Stack Developer** · `Aug 2026 — Present`  
+Promoted to Full-Stack Developer at Habuild Healthtech following graduation, now building and shipping features across the full stack.
 
-**🎓 The Vivekanand School** · `2020 – 2022`  
-Completed senior secondary education with 78% aggregate.
-
-**🎓 B.Tech CSE — KIET Group of Institutions** · `2022 – 2026`  
-Pursuing Bachelor of Technology in Computer Science and Engineering at KIET, Delhi NCR.
-
-**📍 Joined Technocrats** · `May 2023`  
-Became a domain member in the college's premier tech club, starting my journey in AR/VR development.
-
-**🏆 First Hackathon** · `Oct 2023`  
-Placed in the top 10 at my first hackathon, building HomeVision — an AR system that converts 2D architectural blueprints into 3D models.
-
-**👥 AR-VR Coordinator** · `Sep 2023 – Apr 2024`  
-Took on coordination responsibilities for the AR/VR domain in Technocrats, organizing sessions and guiding peers.
-
-**🏆 Pattent Publised** · `Jan 2024`  
-Published a pattent for project Pardarsh
-
-**🏆 Patent Published** · `March 2024`  
-Published a patent for project HomeVision
-
-**👥 AR/VR Domain Lead — Technocrats** · `Apr 2024 – May 2025`  
-Led the AR/VR domain, mentoring 10+ juniors and organizing workshops and knowledge-sharing sessions.
+**📍 Habuild — Frontend Intern** · `Nov 2025 – Aug 2026`  
+Joined Habuild as a frontend intern, building interactive game experiences for 10,000+ daily users.
 
 **📍 NEC Corporation Internship** · `Jun – Jul 2024`  
 Interned at NEC Corporation India, engineering scalable Unity modules for enterprise metaverse solutions.
 
-**📍 Habuild — Frontend Intern** · `Oct 2025 – Present`  
-Joined Habuild as a frontend intern, building interactive game experiences for 10,000+ daily users.
+**👥 AR/VR Domain Lead — Technocrats** · `Apr 2024 – May 2025`  
+Led the AR/VR domain, mentoring 10+ juniors and organizing workshops and knowledge-sharing sessions.
+
+**🏆 Patent Published** · `March 2024`  
+Published a patent for project HomeVision
+
+**🏆 Pattent Publised** · `Jan 2024`  
+Published a pattent for project Pardarsh
+
+**👥 AR-VR Coordinator** · `Sep 2023 – Apr 2024`  
+Took on coordination responsibilities for the AR/VR domain in Technocrats, organizing sessions and guiding peers.
+
+**🏆 First Hackathon** · `Oct 2023`  
+Placed in the top 10 at my first hackathon, building HomeVision — an AR system that converts 2D architectural blueprints into 3D models.
+
+**📍 Joined Technocrats** · `May 2023`  
+Became a domain member in the college's premier tech club, starting my journey in AR/VR development.
+
+**🎓 B.Tech CSE — KIET Group of Institutions** · `2022 – 2026`  
+Completed Bachelor of Technology in Computer Science and Engineering at KIET, Delhi NCR, graduating in the First Division.
+
+**🎓 The Vivekanand School** · `2020 – 2022`  
+Completed senior secondary education with 78% aggregate.
+
+**🎓 Delhi Public School Ghaziabad** · `2010 – 2020`  
+Completed secondary education. Built early foundations in science and technology.
 
 </details>
 
@@ -157,4 +160,4 @@ Joined Habuild as a frontend intern, building interactive game experiences for 1
 
 ---
 
-<sub>🤖 Auto-generated from [Notion CMS](https://notion.so) · Last updated: 20 August 2026</sub>
+<sub>🤖 Auto-generated from [Notion CMS](https://notion.so) · Last updated: 21 August 2026</sub>
