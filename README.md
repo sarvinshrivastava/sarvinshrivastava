@@ -160,4 +160,4 @@ Completed secondary education. Built early foundations in science and technology
 
 ---
 
-<sub>🤖 Auto-generated from [Notion CMS](https://notion.so) · Last updated: 31 August 2026</sub>
+<sub>🤖 Auto-generated from [Notion CMS](https://notion.so) · Last updated: 1 September 2026</sub>
