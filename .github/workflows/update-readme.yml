@@ -38,3 +38,9 @@ jobs:
           git add README.md
           git diff --staged --quiet || git commit -m "chore: update README from Notion [skip ci]"
           git push
+
+      - name: Ping Uptime Kuma
+        if: success()
+        env:
+          KUMA_PUSH_URL: ${{ secrets.KUMA_PUSH_URL }}
+        run: curl -fsS -m 10 -o /dev/null "$KUMA_PUSH_URL"
